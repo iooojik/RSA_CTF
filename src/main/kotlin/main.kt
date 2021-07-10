@@ -55,7 +55,7 @@ fun decodeWithNePhiN(){
                  
                 ${encode256(base256(m))}
                 """.trimIndent()
-            //.split("").reversed().joinToString("")
+            .split("").reversed().joinToString("")
     )
 }
 
